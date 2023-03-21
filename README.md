@@ -3,9 +3,6 @@
 
 ### My name is <a href="https://www.linkedin.com/in/saglara-narankaeva/" rel="nofollow">Saglara</a> Narankaeva and  I'm a Software QA Engineer from NYC 🍎.          
 
-<h1 align="center">Hello World</a> 
-<img src="https://static.invozone.com/uploads/2021/07/Software-developer-vs-Software-engineer-Difference.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="Software Developer vs Software Engineer - What's the Difference?" data-noaft="1" style="width: 465px; height: 277.612px; margin: 0px;">
-            
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,15 +28,15 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
-> 📌 Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Life Cycle including methodologies like Agile and Waterfall and Scaled Agile Framework (SAFe).
-> 
-> 📌 Actively involved in Agile/Scrum Methodology in the project from requirements through the delivery of the project.
-> 
-> 📌 Proficient knowledge in various types of testing like Smoke, Regression, Sanity, and End-to-End.
-> 
-> 📌 Good hands-on experience on test management and bug tracking tool JIRA.
-> 
-> 📌 Hands-on experience in the preparation of Test Cases, Test Reports, and Requirement Traceability Matrix.
+📌 Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Life Cycle including methodologies like Agile and Waterfall and Scaled Agile Framework (SAFe).
+
+📌 Actively involved in Agile/Scrum Methodology in the project from requirements through the delivery of the project.
+
+📌 Proficient knowledge in various types of testing like Smoke, Regression, Sanity, and End-to-End.
+
+📌 Good hands-on experience on test management and bug tracking tool JIRA.
+
+📌 Hands-on experience in the preparation of Test Cases, Test Reports, and Requirement Traceability Matrix.
 
 
    ![testing-process-in-QA-fun](https://user-images.githubusercontent.com/126361556/226462501-c2945d40-4a77-4888-808b-209abefbebe2.gif)
