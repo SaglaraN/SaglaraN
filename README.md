@@ -1,7 +1,8 @@
-# ***Hello World!🌎***
-### My name is <a href="https://www.linkedin.com/in/saglara-narankaeva/" rel="nofollow">Saglara</a> Narankaeva and  I'm a Software QA Engineer from NYC 🍎.
+ # ***Hello World!🌎***
+### My name is <a href="https://www.linkedin.com/in/saglara-narankaeva/" rel="nofollow">Saglara</a> Narankaeva and  I'm a Software QA Engineer from NYC 🍎.|             
 
-<img width="650" height="301" src="https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-blog-analysing-international-QA-engineer-salary-and-rates-ranges-covering-Germany-Switzerland-UK-Eastern-Europe-India-and-the-USA-650x301.jpg" data-src="https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-blog-analysing-international-QA-engineer-salary-and-rates-ranges-covering-Germany-Switzerland-UK-Eastern-Europe-India-and-the-USA-650x301.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyloaded" alt="Hero image for blog analysing international QA engineer salary and rates ranges covering Germany, Switzerland, UK, Eastern Europe, India and the USA" decoding="async" loading="lazy" data-srcset="https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-blog-analysing-international-QA-engineer-salary-and-rates-ranges-covering-Germany-Switzerland-UK-Eastern-Europe-India-and-the-USA-650x301.jpg 650w, https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-blog-analysing-international-QA-engineer-salary-and-rates-ranges-covering-Germany-Switzerland-UK-Eastern-Europe-India-and-the-USA-300x139.jpg 300w, https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-blog-analysing-international-QA-engineer-salary-and-rates-ranges-covering-Germany-Switzerland-UK-Eastern-Europe-India-and-the-USA-1024x474.jpg 1024w, https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-blog-analysing-international-QA-engineer-salary-and-rates-ranges-covering-Germany-Switzerland-UK-Eastern-Europe-India-and-the-USA-768x356.jpg 768w, https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-blog-analysing-international-QA-engineer-salary-and-rates-ranges-covering-Germany-Switzerland-UK-Eastern-Europe-India-and-the-USA.jpg 1280w" data-sizes="(max-width: 650px) 100vw, 650px" sizes="(max-width: 650px) 100vw, 650px" srcset="https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-blog-analysing-international-QA-engineer-salary-and-rates-ranges-covering-Germany-Switzerland-UK-Eastern-Europe-India-and-the-USA-650x301.jpg 650w, https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-blog-analysing-international-QA-engineer-salary-and-rates-ranges-covering-Germany-Switzerland-UK-Eastern-Europe-India-and-the-USA-300x139.jpg 300w, https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-blog-analysing-international-QA-engineer-salary-and-rates-ranges-covering-Germany-Switzerland-UK-Eastern-Europe-India-and-the-USA-1024x474.jpg 1024w, https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-blog-analysing-international-QA-engineer-salary-and-rates-ranges-covering-Germany-Switzerland-UK-Eastern-Europe-India-and-the-USA-768x356.jpg 768w, https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-blog-analysing-international-QA-engineer-salary-and-rates-ranges-covering-Germany-Switzerland-UK-Eastern-Europe-India-and-the-USA.jpg 1280w">
+![Service-2-1](https://user-images.githubusercontent.com/126361556/226463442-1601e3ca-2ef9-4a3f-9c39-34cb8e52d7e1.svg)              
+
 
 
 > 📌 Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Life Cycle including methodologies like Agile and Waterfall and Scaled Agile Framework (SAFe).
@@ -13,5 +14,8 @@
 > 📌 Good hands-on experience on test management and bug tracking tool JIRA.
 > 
 > 📌 Hands-on experience in the preparation of Test Cases, Test Reports, and Requirement Traceability Matrix.
+
+
+![testing-process-in-QA-fun](https://user-images.githubusercontent.com/126361556/226462501-c2945d40-4a77-4888-808b-209abefbebe2.gif)
 
 
