@@ -1,4 +1,6 @@
- # ***Hello World!🌎***
+<h1 align="center">Hello World</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 ### My name is <a href="https://www.linkedin.com/in/saglara-narankaeva/" rel="nofollow">Saglara</a> Narankaeva and  I'm a Software QA Engineer from NYC 🍎.          
 
 ![Service-2-1](https://user-images.githubusercontent.com/126361556/226463442-1601e3ca-2ef9-4a3f-9c39-34cb8e52d7e1.svg)              
