@@ -3,7 +3,9 @@
 
 ### My name is <a href="https://www.linkedin.com/in/saglara-narankaeva/" rel="nofollow">Saglara</a> Narankaeva and  I'm a Software QA Engineer from NYC 🍎.          
 
-![Service-2-1](https://user-images.githubusercontent.com/126361556/226463442-1601e3ca-2ef9-4a3f-9c39-34cb8e52d7e1.svg)              
+<h1 align="center">Hello World</a> 
+<img src="https://static.invozone.com/uploads/2021/07/Software-developer-vs-Software-engineer-Difference.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="Software Developer vs Software Engineer - What's the Difference?" data-noaft="1" style="width: 465px; height: 277.612px; margin: 0px;">
+            
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
