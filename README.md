@@ -38,7 +38,7 @@
 > 📌 Hands-on experience in the preparation of Test Cases, Test Reports, and Requirement Traceability Matrix.
 
 
-![testing-process-in-QA-fun](https://user-images.githubusercontent.com/126361556/226462501-c2945d40-4a77-4888-808b-209abefbebe2.gif)
-<img src="https://www.lambdatest.com/resources/images/regretion-testing.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="Issue28 - Intuitive Mobile UX Reduced Customer Churn" data-noaft="1" style="width: 465px; height: 261.868px; margin: 0px;">
+   ![testing-process-in-QA-fun](https://user-images.githubusercontent.com/126361556/226462501-c2945d40-4a77-4888-808b-209abefbebe2.gif)
+
 
 
